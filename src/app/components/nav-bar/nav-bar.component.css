@@ -1,0 +1,7 @@
+.logo{
+  mix-blend-mode: screen;
+}
+.mobile {
+  top: 0;
+  transition: 0.4s ease-in-out;
+}

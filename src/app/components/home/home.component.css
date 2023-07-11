@@ -1,0 +1,19 @@
+.xx {
+  background-image: linear-gradient(0deg, #181818 60%, rgba(24, 24, 24, 0));
+}
+.spider {
+  background-image: linear-gradient(0deg, white 60%, rgba(255, 255, 255, 0));
+}
+.fashion {
+  background: url("../../../assets/home/fashion.avif");
+  /* width: 100%; */
+  /* height: 100%; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fashion:hover img {
+  scale: 1.05;
+  transition: 2s ease-in-out;
+}
